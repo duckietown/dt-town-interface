@@ -1,0 +1,4 @@
+<launch>
+  <arg name="pkg_name" value="aido_controller"/>
+
+</launch>

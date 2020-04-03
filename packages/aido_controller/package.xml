@@ -1,0 +1,11 @@
+<package>
+  <name>aido_controller</name>
+  <version>0.1.0</version>
+  <description>
+    This package is a template version for functionalities to be added later.
+  </description>
+  <maintainer email="YOUR_EMAIL@EXAMPLE.COM">YOUR_FULL_NAME</maintainer>
+  <license>None</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
